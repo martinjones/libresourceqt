@@ -19,7 +19,7 @@ PkgConfigBR:
     - dbus-1
 
 Configure: none
-Builder: qmake
+Builder: qmake5
 
 Files:
     - "%{_libdir}/libresourceqt5.so.*"
